@@ -5,3 +5,4 @@ int main(){
     cout<<5+6<<endl;
 }
 
+//confusion ko door karo
