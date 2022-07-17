@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include <iostream>
 using namespace std;
 
@@ -7,7 +6,5 @@ int main(){
 }
 
 //confusion ko door karo
-=======
 //confusion ko door karo
 //all fine
->>>>>>> dev
